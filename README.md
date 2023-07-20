@@ -3,7 +3,8 @@
 The side view morphology analysis tutorial provides examples of analysis used for side-view 
 images of plants, including shape, leaf angle, and stem/branch analysis
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-binder.git/HEAD?filepath=notebooks%2Fnew_side_view_morphology_tutorial%2Fmorphology_analysis_side_view_workflow.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-morphology/HEAD?labpath=index.ipynb)
+
 ## Tags/keywords
 
 plant shoot, single plant, side-view, RGB, shape analysis, leaf angle analysis, stem and branch segmentation, 
