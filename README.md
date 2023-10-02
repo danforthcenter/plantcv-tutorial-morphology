@@ -5,6 +5,12 @@ images of plants, including shape, leaf angle, and stem/branch analysis
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-morphology/HEAD?filepath=index.ipynb)
 
+<a target="_blank" href="https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-morphology/">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+[![Static Badge](https://img.shields.io/badge/Open%20in%20GitHub-black?logo=github)](https://github.com/danforthcenter/plantcv-tutorial-morphology)
+
 ## Tags/keywords
 
 plant shoot, single plant, side-view, RGB, shape analysis, leaf angle analysis, stem and branch segmentation, 
