@@ -1,5 +1,7 @@
 # PlantCV Sorghum Shape and Morphology Analysis
 
+[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-morphology/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-morphology/actions/workflows/ci-tests.yml)
+
 The side view morphology analysis tutorial provides examples of analysis used for side-view 
 images of plants, including shape, leaf angle, and stem/branch analysis
 
