@@ -13,10 +13,6 @@ leaf length, leaf curvature, leaf tangent angle,
 
 ## Citations
 
-Gehan MA, Fahlgren N, Abbasi A, Berry JC, Callen ST, Chavez L, Doust AN,
-Feldman MJ, Gilbert KB, Hodge JG, Hoyer JS, Lin A, Liu S, Lizárraga C, Lorence
-A, Miller M, Platon E, Tessman M, Sax T. 2017. PlantCV v2: Image analysis
-software for high-throughput plant phenotyping. *PeerJ* 5:e4088. DOI:
-[10.7717/peerj.4088](https://doi.org/10.7717/peerj.4088).
+Schuhl H, Brown KE, Sheng H, Bhatt PK, Gutierrez J, Schneider D, Casto AL, Acosta-Gamboa L, Ballenger JG, Barbero F, Braley J, Brown AM, Chavez L, Cunningham S, Dilhara M, Dimech AM, Duenwald JG, Fischer A, Gordon JM, Hendrikse C, Hernandez GL, Hodge JG, Huber M, Hurr BM, Jarolmasjed S, Medina Jimenez K, Kenney S, Konkel G, Kutschera A, Lama S, Lohbihler M, Lorence A, Luebbert C, Ly N, Manching HK, Marrano A, Meerdink S, Miklave NM, Mudrageda P, Murphy KM, Peery JD, Pierik R, Polydore S, Robey C, Rogers T, Schultz TJ, Seigel E, Srivastava D, Summerer S, Sumner J, Teng C, Thompson AE, Tovar JC, van Daalen T, Watson M, Wheeler JJ, Wilson MC, Ying KR, Zare A, Zhou Y, Gehan MA, Fahlgren N. PlantCV v4: Image analysis software for high-throughput plant phenotyping. bioRxiv. 2025. p. 2025.11.19.689271. doi:10.1101/2025.11.19.689271.
 
 [![test-pr](https://github.com/danforthcenter/plantcv-tutorial-morphology/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-morphology/actions/workflows/ci-tests.yml)
