@@ -1,0 +1,264 @@
+{
+    "metadata": {
+        "run_date": {
+            "datatype": "<class 'str'>",
+            "value": [
+                "2026-11-11T11:52:13.078838Z"
+            ]
+        },
+        "plantcv_version": {
+            "datatype": "<class 'str'>",
+            "value": [
+                "5.0.0rc2.dev182+g982402fc8.d20260629"
+            ]
+        }
+    },
+    "observations": {
+        "default": {
+            "segment_path_length": {
+                "trait": "segment path length",
+                "method": "plantcv.plantcv.analysis.morphology",
+                "scale": "pixels",
+                "datatype": "<class 'list'>",
+                "value": [
+                    69.44722121953964,
+                    306.43964272737503,
+                    186.6518018245697,
+                    46.64213538169861,
+                    450.1589421033859,
+                    343.70309841632843
+                ],
+                "label": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            },
+            "segment_insertion_angle": {
+                "trait": "segment insertion angle",
+                "method": "plantcv.plantcv.morphology.segment_insertion_angle",
+                "scale": "degrees",
+                "datatype": "<class 'list'>",
+                "value": [
+                    33.26678466796875,
+                    43.93397521972656,
+                    28.19403648376465,
+                    27.57332420349121,
+                    29.59432029724121,
+                    19.668960571289062
+                ],
+                "label": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            },
+            "segment_area": {
+                "trait": "segment area",
+                "method": "plantcv.plantcv.analyze.morphology",
+                "scale": "pixels",
+                "datatype": "<class 'list'>",
+                "value": [
+                    1950,
+                    5828,
+                    3700,
+                    897,
+                    11204,
+                    4082
+                ],
+                "label": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            },
+            "mean_segment_width": {
+                "trait": "mean segment widths",
+                "method": "plantcv.plantcv.analyze.morphology",
+                "scale": "pixels",
+                "datatype": "<class 'list'>",
+                "value": [
+                    12.033796310424805,
+                    14.61882495880127,
+                    15.321606636047363,
+                    6.136475563049316,
+                    20.69537353515625,
+                    9.41244125366211
+                ],
+                "label": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            },
+            "segment_width_std": {
+                "trait": "segment width standard deviation",
+                "method": "plantcv.plantcv.analyze.morphology",
+                "scale": "pixels",
+                "datatype": "<class 'list'>",
+                "value": [
+                    2.927473545074463,
+                    3.0662589073181152,
+                    2.915008544921875,
+                    1.3425631523132324,
+                    3.9299893379211426,
+                    2.8190276622772217
+                ],
+                "label": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            },
+            "segment_width_max": {
+                "trait": "maximum segment widths",
+                "method": "plantcv.plantcv.analyze.morphology",
+                "scale": "pixels",
+                "datatype": "<class 'list'>",
+                "value": [
+                    24.73863410949707,
+                    29.120439529418945,
+                    25.298221588134766,
+                    14.0,
+                    40.0,
+                    25.05992889404297
+                ],
+                "label": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            },
+            "segment_eu_length": {
+                "trait": "segment euclidean length",
+                "method": "plantcv.plantcv.analyze.morphology",
+                "scale": "pixels",
+                "datatype": "<class 'list'>",
+                "value": [
+                    65.79513659838392,
+                    230.2628932329306,
+                    171.73526137634053,
+                    43.73785545725808,
+                    335.01343256651666,
+                    225.49722836434154
+                ],
+                "label": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            },
+            "segment_angle": {
+                "trait": "segment angle",
+                "method": "plantcv.plantcv.analyze.morphology",
+                "scale": "degrees",
+                "datatype": "<class 'list'>",
+                "value": [
+                    49.18897247314453,
+                    3.5748674869537354,
+                    -63.25237274169922,
+                    -85.32327270507812,
+                    -32.379310607910156,
+                    25.9698486328125
+                ],
+                "label": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            },
+            "stem_height": {
+                "trait": "vertical length of stem segments",
+                "method": "plantcv.plantcv.morphology.analyze_stem",
+                "scale": "pixels",
+                "datatype": "<class 'float'>",
+                "value": 265,
+                "label": "pixels"
+            },
+            "stem_angle": {
+                "trait": "angle of combined stem object",
+                "method": "plantcv.plantcv.morphology.analyze_stem",
+                "scale": "degrees",
+                "datatype": "<class 'float'>",
+                "value": 11.825931549072266,
+                "label": "degrees"
+            },
+            "stem_length": {
+                "trait": "path length of combined stem object",
+                "method": "plantcv.plantcv.morphology.analyze_stem",
+                "scale": "pixels",
+                "datatype": "<class 'float'>",
+                "value": 381.71022403240204,
+                "label": "pixels"
+            },
+            "segment_curvature": {
+                "trait": "segment curvature",
+                "method": "plantcv.plantcv.analyze.morphology",
+                "scale": "none",
+                "datatype": "<class 'list'>",
+                "value": [
+                    1.0555069084125197,
+                    1.330825120908149,
+                    1.0868577619335908,
+                    1.0664019736239396,
+                    1.343704157337056,
+                    1.5242009886746755
+                ],
+                "label": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            },
+            "segment_tangent_angle": {
+                "trait": "segment tangent angle",
+                "method": "plantcv.plantcv.analyze.morphology",
+                "scale": "degrees",
+                "datatype": "<class 'list'>",
+                "value": [
+                    166.96844482421875,
+                    95.13003540039062,
+                    167.190185546875,
+                    23.786558151245117,
+                    87.98653411865234,
+                    54.38984680175781
+                ],
+                "label": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            }
+        }
+    }
+}
